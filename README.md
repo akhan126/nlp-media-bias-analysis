@@ -13,4 +13,4 @@ This project was completed as a group effort. My primary responsibilities includ
 - Designing and implementing the original sentiment analysis pipeline
 - Engineering cleaned and structured text features for sentiment analysis
 
-These components formed the foundation for the subsequent analytical and documentation work.
+These contributions supported subsequent analysis and documentation conducted as part of the group project.

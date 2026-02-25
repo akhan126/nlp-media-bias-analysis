@@ -14,3 +14,7 @@ This project was completed as a group effort. My primary responsibilities includ
 - Engineering cleaned and structured text features for sentiment analysis
 
 These contributions supported subsequent analysis and documentation conducted as part of the group project.
+
+## Access
+
+View the report (HTML): https://akhan126.github.io/nlp-media-bias-analysis/

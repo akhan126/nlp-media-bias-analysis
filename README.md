@@ -17,4 +17,8 @@ These contributions supported subsequent analysis and documentation conducted as
 
 ## Access
 
-View the report (HTML): https://akhan126.github.io/nlp-media-bias-analysis/
+1. View the report (HTML): https://akhan126.github.io/nlp-media-bias-analysis/
+   
+2. Clean notebook for reading: https://github.com/akhan126/nlp-media-bias-analysis/blob/main/notebooks/8414_Final_Project_Codebook_prod_clean.ipynb
+
+3. Source notebook: https://github.com/akhan126/nlp-media-bias-analysis/blob/main/notebooks/8414_Final_Project_Codebook_prod_source.ipynb
